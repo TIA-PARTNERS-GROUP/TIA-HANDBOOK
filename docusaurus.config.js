@@ -19,7 +19,7 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://TIA-PARTNERS-GROUP.github.io',
+  url: 'https://tia-partners-group.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/TIA-HANDBOOK/",
